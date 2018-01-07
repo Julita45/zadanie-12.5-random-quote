@@ -17,7 +17,7 @@ h1 {
 	background-color: #D5A021;
 	color: #EDE7D9;
 	font-size: 20px;
-	padding: 15px;
+	padding: 20px;
 	margin: 15px;
 }
 
@@ -27,7 +27,6 @@ h1 {
 	font-style: italic;
 	color: #4B4237;
 	border: 1px solid #4B4237;
-	border-radius: 5%;
 	padding: 10px;
 	margin: 10px; 
 }
